@@ -1,1 +1,1 @@
-# This is a test reposetory
+# This is a test repository
